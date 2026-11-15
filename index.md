@@ -4,20 +4,22 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a master's student in Computer Science
+at Beihang University.
+
+My research interests focus on computer vision,
+multimodal learning, and AI agents.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- Multimodal Large Language Models
+- AI Agents
+- Computer Vision
 
-## News
+## Education
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+**Beihang University**  
+M.S. in Computer Science
 
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
+**Beihang University**  
+B.S. in Software Engineering
